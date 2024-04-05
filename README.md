@@ -1,5 +1,5 @@
 <h1>ExpNo 7 : Implement Alpha-beta pruning of Minimax Search Algorithm for a Simple TIC-TAC-TOE game</h1> 
-<h3> NAME : ABRIN NISHA A N</h3>
+<h3> NAME : ABRIN NISHA A </h3>
 <h3> REG NO : 212222230005 </h3>
 
 # Aim: 
